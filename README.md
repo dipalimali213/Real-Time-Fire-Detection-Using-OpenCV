@@ -166,7 +166,6 @@ python src/fire_detection.py
 
 **Dipali Mali**  
 Computer Science & Engineering  
-R C Patel Institute of Technology  
 
 ---
 
